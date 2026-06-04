@@ -1,7 +1,7 @@
 # Hi there, I'm Lalithya! 👋  
 
 <div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Java+Full+Stack+Learner;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />  
 </div>  
 
 <p align="center">  
