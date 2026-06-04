@@ -60,3 +60,41 @@ An intelligent healthcare application leveraging machine learning algorithms to 
 
 ### 🤖 HireSmart AI  
 An AI-powered recruitment platform that revolutionizes the hiring process through intelligent candidate matching, resume analysis, and automated screening. Built with modern full-stack technologies.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LalithyaKonne&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LalithyaKonne&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalithyaKonne&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LalithyaKonne&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/LalithyaKonne" target="blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/lalithyakonne" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
