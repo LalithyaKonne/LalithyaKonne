@@ -1,7 +1,7 @@
 # Hi there, I'm Lalithya! 👋  
 
 <div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AI+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />  
 </div>  
 
 <p align="center">  
@@ -13,14 +13,15 @@
 
 ## 🚀 About Me  
 
-I'm a **B.Tech student** passionate about building innovative solutions at the intersection of **Artificial Intelligence** and **Healthcare**. Currently learning **Java Full Stack Development** with expertise in **Spring Boot**, **React**, **MongoDB**, and **MySQL**. I'm committed to writing clean, efficient code and creating impactful projects that make a real difference.  
+I'm a **B.Tech Computer Science student** passionate about building innovative software solutions using **Java Full Stack Development**, **MERN Stack**, **Machine Learning**, and **Artificial Intelligence**. I enjoy developing scalable web applications, exploring intelligent systems, and solving real-world problems through technology. My goal is to continuously improve my skills and create impactful projects that combine modern development practices with AI-driven solutions.  
 
 - 🎓 B.Tech Computer Science Student  
-- 🤖 AI Enthusiast exploring machine learning and intelligent systems  
-- 💻 Java Full Stack Developer in progress  
-- 🏥 Passionate about Healthcare Innovation through Technology  
-- 📚 Continuous learner with focus on best practices and modern frameworks  
-- 🔧 Building real-world projects with Java, React, and AI  
+- ☕ Java Full Stack Developer  
+- 💻 MERN Stack Developer  
+- 🤖 AI & Machine Learning Enthusiast  
+- 🌱 Currently learning Advanced Java, Full Stack Development, MERN Stack, and Machine Learning  
+- 📚 Continuous learner focused on modern technologies and best practices  
+- 🔧 Building real-world projects with Java, React, MongoDB, and AI  
 
 ---  
 
@@ -51,7 +52,7 @@ I'm a **B.Tech student** passionate about building innovative solutions at the i
 ## 💼 Featured Projects  
 
 ### 🏥 AI-Based Early Sepsis Detection  
-An intelligent healthcare application leveraging machine learning algorithms to detect sepsis at early stages, enabling timely medical intervention and potentially saving lives. Combines Java backend with AI/ML capabilities.  
+An intelligent healthcare application leveraging machine learning algorithms to detect sepsis at early stages, enabling timely medical intervention. Combines Java backend with AI/ML capabilities for real-world healthcare impact.  
 
 ### 🤖 HireSmart AI  
 An AI-powered recruitment platform that revolutionizes the hiring process through intelligent candidate matching, resume analysis, and automated screening. Built with modern full-stack technologies.
