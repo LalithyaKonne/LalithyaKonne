@@ -63,29 +63,6 @@ An AI-powered recruitment platform that revolutionizes the hiring process throug
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LalithyaKonne&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LalithyaKonne&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalithyaKonne&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LalithyaKonne&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
 ## 📫 Connect With Me
 
 <p align="left">
